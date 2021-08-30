@@ -12,8 +12,8 @@ body{
             text-align: center;
         }
         .book-section > .container{
-            height: 3500px;
-            width: 2480px;
+            height: 2750px;
+            width: 1240px;
             position: relative;
             left: 50%;
             transform: translateX(-50%);
