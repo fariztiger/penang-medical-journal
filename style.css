@@ -12,8 +12,8 @@ body{
             text-align: center;
         }
         .book-section > .container{
-            height: 400px;
-            width: 500px;
+            height: 3500px;
+            width: 2480px;
             position: relative;
             left: 50%;
             transform: translateX(-50%);
@@ -108,5 +108,5 @@ body{
         }
         .front#cover p{
             color: rgba(0,0,0,0.8);
-            font-size: 14px;
+            font-size: 10px;
         }
